@@ -24,7 +24,7 @@
 
 <br><br>
 <div class="sobre">
-    <div class="text" align="center">
+    <div class="text" align="center" width="100%">
         <!-- <svg height="30" width="200">
             <text x="20" y="35" fill="red">Sobre mim: </text>
         </svg> -->
