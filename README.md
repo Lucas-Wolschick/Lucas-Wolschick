@@ -30,7 +30,7 @@
         </svg> -->
         <img src="https://www.coolgenerator.com/Data/Textdesign/202305/250498fb01c4c2527b50f07cf307eca5.png" alt="sobre-texto-placehold-it">
     </div> 
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero exercitationem ullam reprehenderit eum nulla quos? Consectetur sed dolor, cumque temporibus sint molestiae voluptatem consequatur eos cum odit consequuntur quidem ut! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit quod quisquam illum, ducimus a inventore aliquid, laudantium totam corrupti libero molestiae neque officia enim voluptas eligendi dolore temporibus, sed accusamus!</p>
+    <p></p>
 </div>
 <br><br>
 
