@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/cRNEpWTGQqhaV1s886/giphy.gif" alt="icone-principal-circulo" width="200px" style="border-radius: 50%;">
     <div id="badges">
-        <a href="[https://www.linkedin.com/in/lucas-silveira-wolschick/](https://www.linkedin.com/in/lucas-silveira-wolschick/)">
+        <a href="https://www.linkedin.com/in/lucas-silveira-wolschick/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="##Discord#">
